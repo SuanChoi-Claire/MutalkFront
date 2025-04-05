@@ -1,0 +1,42 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+.gradle-cache/
+out/
+
+# IntelliJ IDEA
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Spring Boot specific
+application.properties
+application.yml
+application-dev.properties
+application-prod.properties
+
+# 기타
+bin/
+*.swp
+*.tmp
+
+node_modules/
