@@ -31,7 +31,7 @@ function Header() {
               placeholder="검색어를 입력해주세요"
               className="flex-auto border border-gray-300 rounded-full px-3 py-2 text-sm"
             />
-            <button className="bg-green-800 text-white px-3 py-1 rounded text-sm">검색</button>
+            <button className="bg-green-800 text-white px-3 py-1 rounded text-sm">검색 </button>
           
 
           {/* 로그인/회원가입 */}
@@ -69,7 +69,7 @@ function Header() {
           </div>
         </div>
 
-        {/* 📱 모바일 전용 2단: 네비 + 햄버거 */}
+        {/* 📱 모바일 전용 2단: 네비  */}
         <div className="flex justify-center items-center md:hidden mt-0 pt-0 w-full">
           {/* 네비 */}
           <nav className="flex gap-4 text-gray-700 font-medium text-sm">

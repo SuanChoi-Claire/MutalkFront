@@ -20,7 +20,7 @@ function Home(){
         </section>
   
         {/* BEST REVIEW 슬라이드 */}
-        <section className="w-full max-w-6xl px-4 mt-10">
+        <section className="w-full max-w-6xl mx-auto">
           <h2 className="text-2xl font-bold mb-4">BEST REVIEW</h2>
           <BestReviewSlider />
         </section>
