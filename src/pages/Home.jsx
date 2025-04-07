@@ -11,7 +11,7 @@ function Home(){
 
     return(
         <div className="flex flex-col items-center w-full">
-        {/* 헤더 */}
+        {/* 헤더 gggg*/}
         <Header />
   
         {/* 검색 필터 */}
