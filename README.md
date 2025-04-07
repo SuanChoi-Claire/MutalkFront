@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # MutalkFront
-React, tailwindCSS 사용해서 만든 프론트 
+React, tailwindCSS 사용해서 만든 프론트엔드 파일
 =======
 # Getting Started with Create React App
 
